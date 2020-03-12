@@ -4,6 +4,8 @@
 https://gitlab.com/Mactroll/DEPNotify
 # The Jamf Pro service kickstarter script and reset script
 https://github.com/jamf/DEPNotify-Starter 
+#Example Plist
+https://gitlab.com/Mactroll/DEPNotify/-/tree/master/PlistExamples
 
 # a guide'd Visual reference created by hcs
 https://hcsonline.com/images/Signed_DEPNotify.pdf
