@@ -1,0 +1,23 @@
+#Links to the DEP Notify deployment
+
+# The Gitlab Project
+https://gitlab.com/Mactroll/DEPNotify
+# The Jamf Pro service kickstarter script and reset script
+https://github.com/jamf/DEPNotify-Starter 
+
+# a guide'd Visual reference created by hcs
+https://hcsonline.com/images/Signed_DEPNotify.pdf
+
+# Alaska Airlines's Mac PSU Presentation
+https://macadmins.psu.edu/files/2019/07/psumac2019-361-Using-DEPNotify-to-automate-your-DEPNon-DEP-build-workflows.pdf
+https://www.youtube.com/watch?v=HbKZ66F58qo
+
+#Notify & Jamf Connect (JCN)
+https://docs.jamf.com/jamf-connect/1.0.0/login/administrator-guide/Enabling_the_Notify_Mechanism.html
+
+#TTG deploying JCN with Azure
+https://travellingtechguy.eu/jamf-connect-login-with-azure/
+
+#cool jnuc preso 
+https://www.youtube.com/watch?v=A_VAD0zYq3A
+
